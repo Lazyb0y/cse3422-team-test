@@ -8,23 +8,23 @@ Every member writes code. Roles say who leads an area, not who does all of it.
 
 | Name | GitHub | Role(s) | Strength we can rely on | Something I want to learn |
 |---|---|---|---|---|
-| | @ | Team lead / Scrum master | | |
+| | [@Lazyb0y](https://github.com/Lazyb0y) | Team lead / Scrum master | Have experiance in leading a large team | Improve my leadership skills |
 | | @ | Backend lead | | |
 | | @ | Frontend lead | | |
 | | @ | Quality and DevOps lead | | |
 
 ## Communication
 
-- Main channel (e.g., a Messenger or Discord group): …
-- We reply to teammates within: … hours on weekdays
+- Main channel: WhatsApp
+- We reply to teammates within: 8 hours on weekdays
 - Decisions are recorded in: Jira comments, pull requests or ADRs (not only in chat)
 - Help from the instructor: through GitHub **Help request** issues
 
 ## Meeting rhythm
 
-- Weekly planning: day and time …, about 30 minutes, online or in person
-- Short check-ins: … (e.g., Monday and Thursday, 10 minutes)
-- Weekly status report in `reports/YYYY-MM-DD.md`, written by: … (rotates weekly)
+- Weekly planning: Every Thursday, 03 PM, about 30 minutes, in person
+- Short check-ins: Monday and Thursday, 10 minutes
+- Weekly status report in `reports/YYYY-MM-DD.md`, written by: @Lazyb0y, @LinkinPark (rotates weekly)
 
 ## Definition of Done
 
@@ -53,8 +53,10 @@ Within the course policy:
 - Every member can explain every line they submit; anything you cannot explain is rewritten.
 - Never paste secrets, keys or personal data into an AI tool.
 
-Our extra rules: …
+Our extra rules:
+
+- Every Friday, we do a weekly knowledge sharing session.
 
 ## Signatures
 
-The author opens the pull request that adds this file; every other member approves it before it is merged. Date agreed: …
+The author opens the pull request that adds this file; every other member approves it before it is merged. Date agreed: 4th November, 2026
